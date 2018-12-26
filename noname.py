@@ -67,3 +67,5 @@ elif operation == '/':
     print(num_1 / num_2)
 else:
     print('You have not typed a valid operator, please run the program again.')
+
+#тратартара
